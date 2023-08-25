@@ -9,7 +9,6 @@ I don't know what to show here, other than...
 
 ### Projects I'm enthusiastic about  
 [Stellarica](https://github.com/Stellarica)  
-[Modrinth SMP](https://github.com/modrinth-smp/pack)
 
 ### Other cool stuff which i just wanna mention  
 [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)  
